@@ -153,6 +153,4 @@ npm run dev
 
 Sachin Kumar
 
-LinkedIn: Add Your Link
-
-GitHub: Add Your Link
+LinkedIn: https://www.linkedin.com/in/sachin-kumar-aa7756280/
